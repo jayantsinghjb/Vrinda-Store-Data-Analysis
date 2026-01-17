@@ -19,6 +19,7 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 -	Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
 ## Dashboard
 <img width="1870" height="859" alt="Vrinda Store Dashboard" src="https://github.com/user-attachments/assets/d1a59dae-490d-4eae-84ea-3c06d3fb0f69" />
+
 ## Project Insight
 -	Women customers are more likely to buy products compared to men (~65%).
 -	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
